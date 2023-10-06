@@ -1,2 +1,2 @@
 this is my second file within my first directory. 
-i have successfully altered my file.
+I have successfully altered my file.
